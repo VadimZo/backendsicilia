@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../advancedShop/.idea/advancedShop.iml" filepath="$PROJECT_DIR$/../advancedShop/.idea/advancedShop.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/backendsiciliapp.iml" filepath="$PROJECT_DIR$/.idea/backendsiciliapp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../siciliapp/.idea/siciliapp.iml" filepath="$PROJECT_DIR$/../siciliapp/.idea/siciliapp.iml" />
+    </modules>
+  </component>
+</project>
